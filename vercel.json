@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!IMAGENES|logos|fonts).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
